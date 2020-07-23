@@ -5,7 +5,7 @@ The Java Persistence API (JPA) is a Java application programming interface speci
 
 
 ### Annotations 
-'''
+
 @Entity
 
 @Table
@@ -16,7 +16,7 @@ The Java Persistence API (JPA) is a Java application programming interface speci
 
 @GeneratedValue
 
-'''
+
 
 #### Mapping
 
